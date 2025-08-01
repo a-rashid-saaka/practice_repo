@@ -1,2 +1,4 @@
 hello there
 This was added from local
+This was added from remote
+
