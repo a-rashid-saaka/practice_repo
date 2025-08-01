@@ -1,4 +1,4 @@
-hello there
+New day
 This was added from local
-This was added from remote
+This was added in remote
 
