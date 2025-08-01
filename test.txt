@@ -1,4 +1,4 @@
-New day
+Hello! It's a New day
 This was added from local
 This was added in remote
 
